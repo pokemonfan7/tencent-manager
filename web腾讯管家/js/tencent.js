@@ -29,6 +29,7 @@ window.onload=function()
         m=j+1;
         fn(0,2,"top",275,150,80,"-font.png",m);
         fn(1,3,"right",-180,-90,-30,".png",m);
+        n=j;
         //fnMove2();
         //aImg[2].src="img/tab-"+(j+1)+"-font.png";
         //aImg[1].src="img/tab-"+(j+1)+".png";
